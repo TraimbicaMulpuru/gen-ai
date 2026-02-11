@@ -1,0 +1,23 @@
+[
+  { "occasion": "Wedding", "gender": "Male", "season": "Summer", "budget": "Luxury", "name": "Royal Ivory Sherwani", "items": ["🧥 Silk Sherwani", "👖 Dhoti", "👞 Gold Mojaris"], "description": "Hand-stitched silk for grand summer palace weddings.", "color": "#D4AF37" },
+  { "occasion": "Wedding", "gender": "Male", "season": "Winter", "budget": "Luxury", "name": "Midnight Velvet Tuxedo", "items": ["🧥 Velvet Blazer", "👔 Silk Bowtie", "👞 Patent Shoes"], "description": "Ultra-premium velvet for elite winter galas.", "color": "#000080" },
+  { "occasion": "Wedding", "gender": "Female", "season": "Summer", "budget": "Luxury", "name": "Designer Organza Saree", "items": ["🥻 Organza Saree", "💎 Diamond Set", "👠 Silver Heels"], "description": "High-fashion breezy elegance for summer nuptials.", "color": "#FADBD8" },
+  { "occasion": "Wedding", "gender": "Female", "season": "Winter", "budget": "Luxury", "name": "Royal Maroon Lehenga", "items": ["👗 Heavy Velvet Lehenga", "🧣 Pashmina Shawl", "💍 Emerald Set"], "description": "Opulent warmth for high-end winter weddings.", "color": "#4A0E0E" },
+
+  { "occasion": "Gym", "gender": "Male", "season": "Summer", "budget": "Budget", "name": "Active Mesh Set", "items": ["👕 Mesh Tank", "🩳 Core Shorts", "👟 Canvas Runners"], "description": "Affordable cooling gear for intense summer heat.", "color": "#28B463" },
+  { "occasion": "Gym", "gender": "Male", "season": "Winter", "budget": "Luxury", "name": "Thermal Tech Performance", "items": ["🧥 Compression Jacket", "👖 Thermal Tights", "👟 Pro Runners"], "description": "Elite heat-retention gear for winter training.", "color": "#2C3E50" },
+  { "occasion": "Gym", "gender": "Female", "season": "Spring", "budget": "Mid-Range", "name": "Pastel Sculpt Set", "items": ["👕 Seamless Top", "👖 High-Waist Leggings", "👟 Training Shoes"], "description": "Trendy and supportive for a spring fitness routine.", "color": "#FF69B4" },
+  { "occasion": "Gym", "gender": "Female", "season": "Monsoon", "budget": "Budget", "name": "Quick-Dry Activewear", "items": ["👕 Tech Tee", "👖 Nylon Shorts", "🧥 Transparent Raincoat"], "description": "Rain-ready affordable gym kit.", "color": "#1F618D" },
+
+  { "occasion": "Party", "gender": "Male", "season": "Summer", "budget": "Luxury", "name": "Silk Resort Party Look", "items": ["👕 Patterned Silk Shirt", "👖 White Chinos", "👞 Suede Loafers"], "description": "High-end summer clubbing look.", "color": "#F1C40F" },
+  { "occasion": "Party", "gender": "Male", "season": "Winter", "budget": "Budget", "name": "Urban Bomber Look", "items": ["🧥 Padded Bomber", "👕 Black Tee", "👖 Slim Jeans"], "description": "Affordable and warm for winter nightlife.", "color": "#1A1A1A" },
+  { "occasion": "Party", "gender": "Female", "season": "Summer", "budget": "Mid-Range", "name": "Satin Slip & Strappy Heels", "items": ["👗 Satin Dress", "👠 Clear Heels", "👛 Clutch"], "description": "Elegant and light for a summer rooftop party.", "color": "#DAF7A6" },
+  { "occasion": "Party", "gender": "Female", "season": "Winter", "budget": "Luxury", "name": "Sequin Gown & Faux Fur", "items": ["👗 Sequin Dress", "🧥 Faux Fur Wrap", "👠 Stilettos"], "description": "A luxury statement look for cold winter parties.", "color": "#000000" },
+
+  { "occasion": "Office", "gender": "Male", "season": "Spring", "budget": "Luxury", "name": "Executive Tweed Suit", "items": ["🧥 Tweed Blazer", "👕 Oxford Shirt", "👞 Brogues"], "description": "Professional luxury for a breezy spring day.", "color": "#212F3C" },
+  { "occasion": "Office", "gender": "Female", "season": "Summer", "budget": "Budget", "name": "Linen Work Casual", "items": ["👕 Linen Shirt", "👖 Cotton Trousers", "👡 Mules"], "description": "Smart and affordable for the summer office.", "color": "#D2B48C" },
+  { "occasion": "Office", "gender": "Male", "season": "Monsoon", "budget": "Mid-Range", "name": "Tech-Savvy Professional", "items": ["👕 Wrinkle-free Shirt", "👖 Quick-dry Chinos", "👞 Rubber-sole Derbys"], "description": "Rain-resistant smart casual for monsoon.", "color": "#2E86C1" },
+
+  { "occasion": "Date", "gender": "Male", "season": "Winter", "budget": "Luxury", "name": "Wool Overcoat & Cashmere", "items": ["🧥 Long Overcoat", "👕 Cashmere Turtleneck", "👢 Chelsea Boots"], "description": "The ultimate luxury winter date night outfit.", "color": "#1C2833" },
+  { "occasion": "Date", "gender": "Female", "season": "Spring", "budget": "Budget", "name": "Floral Sun Dress", "items": ["👗 Mini Floral Dress", "👡 Strappy Sandals", "👜 Crossbody Bag"], "description": "Charming and affordable for a warm spring date.", "color": "#F1948A" }
+]
